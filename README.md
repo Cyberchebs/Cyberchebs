@@ -1,8 +1,7 @@
 
 
 
-<img align="center" width="100%" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR5OTR6bjZ6amZrbjQ3OWoweDdwaG1mZHA1Ym91MXJuN2E0MGZ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" >
-  
+<img align="center" width="100%" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR5OTR6bjZ6amZrbjQ3OWoweDdwaG1mZHA1Ym91MXJuN2E0MGZ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" >
 <h1 align="center">Hi 👋, I'm Nzom Chebem</h1>
 <h3 align="center">A frontend developer from Africa</h3>
 
