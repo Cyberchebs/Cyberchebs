@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/Ry6p.gif">
 
-- 🌱 I’m currently learning open for work and looking for a company to grow with
+- 🌱 I’m currently  open for work and looking for a company to grow with
 
 - 💬 Ask me about **React, NextJs**
 
