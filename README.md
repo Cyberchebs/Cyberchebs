@@ -1,3 +1,5 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.redd.it/n8agw6z2smyb1.gif))]
+
 <h1 align="center">Hi 👋, I'm Nzom Chebem</h1>
 <h3 align="center">A frontend developer from Africa</h3>
 
