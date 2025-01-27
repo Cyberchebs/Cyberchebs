@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nzom Chebem</h1>
 <h3 align="center">A frontend developer from Africa</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/Ry6p.gif">
+<img align="right" alt="coding" width="300" src="https://i.gifer.com/Ry6p.gif">
 
 - 🌱 I’m currently  open for work and looking for a company to grow with
 
